@@ -29,9 +29,9 @@ print "Let's print three lines:"
 #calling third function, the argument is a variable
 current_line = 1
 print_a_line(current_line, current_file)
-# combine variable with + 
-current_line = current_line + 1
+# combine variable with +
+current_line = current_line + 1 # 1+1
 print_a_line(current_line, current_file)
 
-current_line = current_line + 1
+current_line = current_line + 1 # 2+1
 print_a_line(current_line, current_file)

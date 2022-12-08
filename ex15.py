@@ -1,6 +1,6 @@
 #reading files
 #import a small part of whole modules
-from sys import argv
+from sys import argv #package sys
 #giving argv our script
 script, filename = argv
 #assign txt to a read a file
